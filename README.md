@@ -1,2 +1,2 @@
-# Stroop_Effect_Analysis
+# Stroop Effect Analysis
 Testing a perceptual phenomenon: the stroop effect.
