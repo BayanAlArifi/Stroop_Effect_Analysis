@@ -11,7 +11,7 @@
 ## Introduction
 A classic phenomenon from experimental psychology called the Stroop Effect is investigated. A hypothesis regarding the outcome of the task is presented. Some data collected from others who have performed the same task is investigated, and some statistics describing the results are computed. Finally, results in terms of the hypotheses are interpretd.
 
-![image.png](attachment:image.png)
+![image.png](http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,f_auto,h_2000,q_90,w_1200/v1/107158/Stroop_Test_2_t071jx.jpg)
 
 
 <a id='analysis'></a>
